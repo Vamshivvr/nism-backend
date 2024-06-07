@@ -1,0 +1,4 @@
+{
+    "editor.formatOnSave": true,
+    "jasmineExplorer.nodeArgv" : ["-r", "ts-node/register"]
+}
